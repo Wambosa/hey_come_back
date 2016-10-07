@@ -44,3 +44,7 @@ window.addEventListener('load', function(){
     <script src="https://cdn.rawgit.com/Wambosa/hey_come_back/master/HeyComeBack_auto.js"></script>
 </body>
 ```
+
+## future
+- support favicon changes
+- allow delay on goodbye
